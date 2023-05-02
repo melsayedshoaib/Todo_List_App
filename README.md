@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Todo Application
+
+## Key Features
+
+* Add New todos.
+* Mark your finished todos by clicking on your todo, it will be line-throughed with its color turned into red.
+* Edit your todo by clicking on the pencil icon.
+* Delete your todo by clicking on the bin icon.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
